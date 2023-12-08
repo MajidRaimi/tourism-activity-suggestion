@@ -15,7 +15,7 @@ This repository contains our final project for the course "Knowledge Representat
 1. **Clone the Repository**: Clone this repository to your local machine or download the source code.
 
     ```bash
-    git clone https://github.com/your-github-username/your-repo-name.git
+    git clone https://github.com/MajidRaimi/tourism-activity-suggestion
     ```
 
 2. **Install Dependencies**: Ensure you have Python installed on your system. You will also need to install Streamlit. You can do this by running:
