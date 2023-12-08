@@ -1,0 +1,43 @@
+Type,Weather,Activity
+adventure,outdoor,Hiking
+adventure,outdoor,Mountain Biking
+adventure,outdoor,Kayaking
+adventure,outdoor,Rock Climbing
+adventure,outdoor,Snorkeling
+adventure,outdoor,Cycling Tour
+adventure,outdoor,Wildlife Safari
+cultural,outdoor,Historical Tour
+cultural,outdoor,Archaeological Dig
+cultural,outdoor,City Walking Tour
+cultural,outdoor,Outdoor Art Exhibit
+leisure,outdoor,Beach Day
+leisure,outdoor,Picnic in the Park
+leisure,outdoor,Boat Cruise
+leisure,outdoor,Yoga Retreat in Nature
+educational,outdoor,Photography Course in Nature
+educational,outdoor,Astronomy Night
+educational,outdoor,Nature Workshop
+educational,outdoor,Outdoor Cooking Class
+physical,outdoor,Fitness Bootcamp
+physical,outdoor,Dance Workshop in the Park
+physical,outdoor,Martial Arts Class Outdoors
+adventure,indoor,Indoor Rock Climbing
+adventure,indoor,Indoor Skydiving
+adventure,indoor,Escape Room
+adventure,indoor,Virtual Reality Adventure
+cultural,indoor,Museum Visit
+cultural,indoor,Art Gallery
+cultural,indoor,Theater Show
+cultural,indoor,Opera
+leisure,indoor,Spa Day
+leisure,indoor,Shopping
+leisure,indoor,Indoor Botanical Garden
+leisure,indoor,Cinema
+educational,indoor,Cooking Class
+educational,indoor,Language Workshop
+educational,indoor,Indoor Photography Course
+educational,indoor,Historical Lecture
+physical,indoor,Gym Session
+physical,indoor,Indoor Yoga Class
+physical,indoor,Dance Studio Workshop
+physical,indoor,Indoor Cycling Class
